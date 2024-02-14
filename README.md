@@ -37,14 +37,23 @@ To get started with PokerPayoutsSwift, clone the repository to your local machin
 
 Here are some screenshots to give you a glimpse into what Poker Payouts Swift looks like in action:
 
-![Screenshot 1](Images/im1.png)  
-*Main Interface - Where you enter player winnings*
+<p align="center">
+  <img src="Images/im1.png" width="200" alt="Screenshot 1"/>
+  <br>
+  <em>Main Interface - Where you enter player winnings</em>
+</p>
 
-![Screenshot 2](Images/im2.png)  
-*Results Display - View detailed split calculations and share them with your players.*
+<p align="center">
+  <img src="Images/im2.png" width="200" alt="Screenshot 2"/>
+  <br>
+  <em>Results Display - View detailed split calculations and share them with your players.</em>
+</p>
 
-![Screenshot 3](Images/im3.png)  
-*Results Display - Share a text summary of winnings to your friends.*
+<p align="center">
+  <img src="Images/im3.png" width="200" alt="Screenshot 3"/>
+  <br>
+  <em>Results Display - Share a text summary of winnings to your friends.</em>
+</p>
 
 
 ## Contributing
